@@ -32,8 +32,9 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution URL here](https://github.com/boomshakar/roll-your-dice)
-- Live Site URL: [Live site URL here](https://rollyourdice.netlify.app/)
+- Solution URL: [Solution URL here](https://github.com/boomshakar/simon-game)
+- Live Site URL: [Live site URL here](https://boom-simongame.netlify.app/)
+- Live Site URL: [Live site URL here](https://boomshakar.github.io/simon-game/)
 
 ### Built with
 
